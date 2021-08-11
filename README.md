@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhdang&layout=compact"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vietanhdang&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vietanhdang" />
 </a>
 
 
