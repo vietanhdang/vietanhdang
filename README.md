@@ -1,7 +1,7 @@
 ### It’s good to see you 👋, I'm Viet Anh Dang
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhdang&theme=Gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhdang&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhdang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
