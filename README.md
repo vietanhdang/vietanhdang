@@ -1,6 +1,12 @@
 ### It’s good to see you 👋, I'm Viet Anh Dang
 
-<div style="display: flex; justify-content: space-around">
+<div
+            style="
+                display: flex;
+                justify-content: space-around;
+                flex-direction: row;
+            "
+        >
             <div style="max-width: 50%">
                 <img
                     src="https://github-readme-stats.vercel.app/api?username=vietanhdang&show_icons=true&border_radius=20&hide_border=true"
@@ -12,7 +18,6 @@
                 />
             </div>
         </div>
-
 
 
 
