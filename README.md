@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning FPT University **Software engineer**
 
-- 👯 I'm looking to collaborate on frontend and backend [Movie247 - Watch movies free (My Latest Project ->)](https://github.com/vietanhdang/Movie247)
+- 👯 I'm looking to collaborate on frontend and backend
 
 - 📫 How to reach me **vietdang0407@gmail.com**
 
