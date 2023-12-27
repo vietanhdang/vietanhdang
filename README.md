@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietanhdang" alt="vietanhdang" /></a> </p>
 
-- 🌱 I’m currently learning FPT University **Software engineer**
-
-- 👯 I'm looking to collaborate on frontend and backend
-
 - 📫 How to reach me **vietdang0407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
