@@ -27,7 +27,6 @@ With a deep interest in both **frontend and backend development**, I focus on bu
 
 ### 🚀 What I Do:
 - 🌐 **Web Development:** Building responsive, high-performance web applications  
-- 📱 **Mobile Development:** Creating cross-platform apps with React Native  
 - 🧠 **AI Integration:** Experimenting with AI/ML APIs to enhance user experiences  
 - ☁️ **Backend Systems:** Designing APIs, databases, and scalable server-side architectures
 
