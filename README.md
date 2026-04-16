@@ -61,23 +61,6 @@ I work across both frontend and backend, aiming to deliver products that are **c
   </a>
 </p>
 
----
-## 📈 GitHub Stats & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vietanhdang&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vietanhdang&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vietanhdang&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
 ## 📊 Commit Metrics & Contributions
 
 <p align="center">
